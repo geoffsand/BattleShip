@@ -66,7 +66,7 @@ namespace Day_7_Battleship
                 }
                 else
                 {
-                    Console.WriteLine("Miss! You Suck!");
+                    Console.WriteLine("Miss!!");
                     gridPlayer[row, column] = 'M';
                 }
             }
